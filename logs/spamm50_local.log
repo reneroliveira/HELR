@@ -646,7 +646,7 @@ update time = 124.641 seconds
 	 - AUC: 0.93414
 
 Bootstrapping START!!!
-bootstrapping time = 15388.9 seconds
+bootstrapping time = 638.159 seconds
 Bootstrapping END!!!
 	 - wData = [-0.282404,0.00487829,-0.00632968,0.00906988,0.00500429,0.0151459,0.0194491,0.0230677,0.00800137,0.0225602,0.0225602]
 	 - Accuracy: 0.622642
@@ -674,4 +674,4 @@ update time = 133.876 seconds
 	 - Accuracy: 0.622642
 	 - AUC: 0.933943
 
- - Training time = 31642.6 seconds
+ - Training time = 16891.859 seconds
